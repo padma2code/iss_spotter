@@ -5,7 +5,7 @@ const request = require("request");
  * Input:
  *   - A callback (to pass back an error or the IP string)
  * Returns (via Callback):
- *   - An error, if any (nullable) testing testing
+ *   - An error, if any (nullable)test
  *   - The IP address as a string (null if error). Example: "162.245.144.188"
  */
 
